@@ -5,7 +5,7 @@ function Router() {
   return (
     <BrowserRouter>
       <Switch>
-        <Route path="/nomad-react-master">
+        <Route path="/animation">
           <App />
         </Route>
       </Switch>
